@@ -8,4 +8,4 @@ matplotlib
 chromadb
 langchain-ollama
 langchain_ollama
-angchain_community
+langchain_community
