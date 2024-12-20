@@ -6,3 +6,6 @@ ollama
 networkx
 matplotlib
 chromadb
+langchain-ollama
+langchain_ollama
+angchain_community
