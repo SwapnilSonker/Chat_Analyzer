@@ -1,0 +1,74 @@
+[1/2/24, 9:15:23 AM] you: https://medium.com/successful-people-habits/morning-routines-that-changed-my-life
+Really need to implement these habits
+
+[1/2/24, 9:42:15 AM] you: "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+Saving this for the tough days
+
+[1/2/24, 10:03:55 AM] you: Note to self: Remember why you started. The initial excitement of building something new is fading, but the vision is still clear. Keep pushing.
+
+[1/3/24, 7:30:12 AM] you: https://www.youtube.com/watch?v=kYfNvmF0Bqw
+Best video on productivity systems I've found so far
+
+[1/3/24, 2:15:45 PM] you: Random thought: What if the key to creativity isn't finding new ideas, but connecting existing ones in unique ways?
+
+[1/4/24, 11:20:33 AM] you: Must read later:
+https://paulgraham.com/startupideas.html
+https://tim.blog/2018/10/05/the-10-commandments-of-startup-success/
+https://www.julian.com/guide/write/intro
+
+[1/4/24, 4:45:18 PM] you: Journal entry:
+Today was intense. Had a breakthrough with the product design. Sometimes you need to step back to move forward. Key insights:
+- Keep it simple
+- Focus on core value
+- Trust the process
+Need to revisit these points next week.
+
+[1/5/24, 8:10:27 AM] you: "The best way to predict the future is to create it." - Peter Drucker
+This resonates with what we're building
+
+[1/5/24, 3:25:51 PM] you: Design inspiration:
+https://linear.app
+https://superhuman.com
+https://reflect.app
+Something about their minimal aesthetics just works
+
+[1/6/24, 9:55:42 AM] you: Want to implement this design pattern:
+https://dribbble.com/shots/popular/web-design
+The third one especially
+
+[1/6/24, 2:30:17 PM] you: Brain dump:
+- Build features users need, not what they want
+- Focus on core experience
+- Make it feel magical
+- Keep patterns familiar
+Must expand on these later
+
+[1/7/24, 10:05:33 AM] you: https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU
+Perfect focus music for coding sessions
+
+[1/7/24, 4:20:19 PM] you: Reading list:
+- Zero to One by Peter Thiel
+- Shape Up by Ryan Singer
+- Designing Data-Intensive Applications
+Need to finish these by month end
+
+[1/8/24, 7:45:22 AM] you: "Simplicity is the ultimate sophistication." - Leonardo da Vinci
+Keep coming back to this while designing
+
+[1/8/24, 1:15:45 PM] you: Weekend reflection:
+Sometimes building in public feels overwhelming. But the feedback loop is worth it. Need to find balance between sharing and building.
+
+[1/9/24, 9:30:27 AM] you: Interesting thread on building indie products:
+https://twitter.com/levelsio/status/1234567890
+Save this for motivation
+
+[1/9/24, 3:40:55 PM] you: Current stack research:
+https://supabase.com/docs/guides/getting-started
+https://nextjs.org/docs/app/building-your-application
+https://docs.pmnd.rs/zustand/getting-started/introduction
+
+[1/10/24, 8:25:18 AM] you: Note to future self:
+Don't overcomplicate things. Users don't care about the tech stack. They care about solving their problems. Keep it simple.
+
+[1/10/24, 2:50:33 PM] you: "The only way to do great work is to love what you do." - Steve Jobs
+This one hits different when you're building something you believe in

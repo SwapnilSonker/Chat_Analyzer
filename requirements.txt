@@ -1,0 +1,8 @@
+streamlit
+Langchain_community
+Langchain
+Langchain_core
+ollama
+networkx
+matplotlib
+chromadb
