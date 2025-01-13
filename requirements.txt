@@ -9,3 +9,4 @@ chromadb
 langchain-ollama
 langchain_ollama
 langchain_community
+docker
